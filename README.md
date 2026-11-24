@@ -160,8 +160,18 @@ I now bring product thinking, software engineering and analytical skills togethe
 | Research & engineering | Current focus |
 | --- | --- |
 | **[Echoloom — Marketplace & Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_marketplace)** | Hackathon extension: character discovery, publishing, public listings and interactive two-character storytelling; **Solana / Web3 integration (in progress)** — wallet authentication, on-chain payments and creator revenue sharing |
-| **AI Companion Research** | Conversational memory, character consistency, persona simulation and human–AI interaction |
+| **[Before Bringing It Up: When and How AI Companions Should Use Memory](https://arxiv.org/abs/2610.09470)** | Research paper (arXiv preprint; submitted to CHI 2027) — context-aware memory use, user consent, prompt design and cross-model LLM evaluation |
 | **Human-centered AI Research** | Research into how conversational AI can support people living with dementia; work in progress, materials not publicly shared |
+
+**Featured research · Before Bringing It Up**
+
+Investigates not just whether AI companions can remember, but **when and how they should use remembered information**. Our team developed *Reconsider*, an interview-grounded, single-call prompting procedure with five ordered checks and four memory-handling modes.
+
+| Formative research | Experimental scope | Preliminary findings |
+| --- | --- | --- |
+| 14 users · 2 interview rounds | 80 scenarios · 5 LLMs · 400 blinded response pairs | +15.3 and +22.8 percentage-point net preference margins from two LLM judges |
+
+<sub>Results reflect automated evaluator preferences, not human preference validation; effects vary by model. Human evaluation remains future work. Preprint, not an accepted or peer-reviewed CHI publication.</sub>
 
 <sub>Echoloom and StudyFlow banners are illustrative. StudyFlow demonstrates scheduling and product design; its prototype is not presented as a trained AI model.</sub>
 
