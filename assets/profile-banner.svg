@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 470" role="img" aria-labelledby="title desc">
+<title id="title">Roxy — product ideas brought to life with software, data and AI</title>
+<desc id="desc">Original editorial developer banner with a creative code workbench and three pillars: product thinking, engineering and research. Not a profile statistic.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101120"/><stop offset=".58" stop-color="#171426"/><stop offset="1" stop-color="#24203d"/></linearGradient>
+<linearGradient id="violet" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#a388fa"/><stop offset="1" stop-color="#79ded2"/></linearGradient>
+<filter id="shade" x="-35%" y="-35%" width="170%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="19" flood-color="#05040a" flood-opacity=".42"/></filter>
+</defs>
+<rect width="1280" height="470" rx="20" fill="url(#bg)"/>
+<path d="M0 440L254 320L450 428L625 320L810 408L1080 300L1280 355" stroke="#bda2fc" stroke-opacity=".11" stroke-width="2" fill="none"/>
+<path d="M-20 390L254 270L450 378L625 270L810 358L1080 250L1300 305" stroke="#98dfd6" stroke-opacity=".1" stroke-width="2" fill="none"/>
+<circle cx="1135" cy="62" r="235" fill="#7e63ba" opacity=".1"/><circle cx="785" cy="465" r="200" fill="#3fa59e" opacity=".08"/>
+<g transform="translate(67 52)">
+<rect width="34" height="34" rx="10" fill="#aa91f9" opacity=".19" stroke="#a98afc"/>
+<path d="M12 10L6 17L12 24M22 10L28 17L22 24M18 9L15 25" stroke="#cab4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="47" y="24" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#d4c4ff">ROXY / BUILDS</text>
+</g>
+<text x="67" y="157" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3.5" fill="#9cded5">PRODUCT THINKING  ×  SOFTWARE  ×  AI &amp; DATA</text>
+<text x="63" y="226" font-family="Georgia,serif" font-size="54" fill="#fff">Curious minds</text>
+<text x="63" y="291" font-family="Georgia,serif" font-size="54" font-style="italic" fill="#c4adff">build things.</text>
+<text x="67" y="349" font-family="Arial,sans-serif" font-size="18" fill="#d5d2df">From hand-coded interfaces to intelligent systems—</text>
+<text x="67" y="379" font-family="Arial,sans-serif" font-size="18" fill="#d5d2df">I turn questions into things you can use.</text>
+<g filter="url(#shade)" transform="translate(773 63)">
+<rect width="426" height="338" rx="21" fill="#191b2a" stroke="#605677" stroke-width="1.5"/>
+<rect width="426" height="49" rx="21" fill="#242338"/><rect y="25" width="426" height="24" fill="#242338"/>
+<circle cx="25" cy="24" r="5" fill="#e18da0"/><circle cx="44" cy="24" r="5" fill="#efce94"/><circle cx="63" cy="24" r="5" fill="#8fe0c5"/>
+<text x="92" y="29" font-family="Arial,sans-serif" font-size="12" fill="#b1a7c8">workbench / ideas.ts</text>
+<g font-family="monospace" font-size="14">
+<text x="28" y="92" fill="#77758e">01</text><text x="65" y="92" fill="#ac8af2">const</text><text x="115" y="92" fill="#f1d8e5"> work = {</text>
+<text x="28" y="128" fill="#77758e">02</text><text x="90" y="128" fill="#8ce0d6">questions</text><text x="186" y="128" fill="#eee3ff">: </text><text x="203" y="128" fill="#e3c68e">"Why not?"</text><text x="299" y="128" fill="#eee3ff">,</text>
+<text x="28" y="164" fill="#77758e">03</text><text x="90" y="164" fill="#8ce0d6">approach</text><text x="176" y="164" fill="#eee3ff">: </text><text x="193" y="164" fill="#e3c68e">"build &amp; learn"</text><text x="335" y="164" fill="#eee3ff">,</text>
+<text x="28" y="200" fill="#77758e">04</text><text x="90" y="200" fill="#8ce0d6">tools</text><text x="150" y="200" fill="#eee3ff">: [</text><text x="179" y="200" fill="#e3c68e">"code"</text><text x="239" y="200" fill="#eee3ff">, </text><text x="259" y="200" fill="#e3c68e">"data"</text><text x="323" y="200" fill="#eee3ff">],</text>
+<text x="28" y="236" fill="#77758e">05</text><text x="90" y="236" fill="#8ce0d6">mindset</text><text x="168" y="236" fill="#eee3ff">: </text><text x="185" y="236" fill="#e3c68e">"iterate"</text>
+<text x="28" y="272" fill="#77758e">06</text><text x="65" y="272" fill="#f1d8e5">};</text>
+</g>
+<line x1="22" y1="299" x2="405" y2="299" stroke="#514b64"/>
+<circle cx="36" cy="319" r="5" fill="#85ddc7"/>
+<text x="51" y="323" font-family="Arial,sans-serif" font-size="12" fill="#a7bdc1">From idea to prototype, then iteration.</text>
+</g>
+<g fill="#b8a4f1">
+<path d="M714 48l3 9 9 3-9 3-3 9-3-9-9-3 9-3z" opacity=".8"/>
+<path d="M1218 427l2 6 6 2-6 2-2 6-2-6-6-2 6-2z" opacity=".75"/>
+</g>
+</svg>
