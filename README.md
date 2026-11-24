@@ -57,25 +57,74 @@
 
 ---
 
-## What I'm about
+## My Professional Journey
 
-My route into software started with **writing the code myself**: React components, JavaScript logic, styles and small backends. That hands-on foundation still shapes how I work.
+From building software, to understanding business through data, to bringing both together in applied AI.
 
-Today I enjoy building at the intersection of **product design, AI-powered applications and applied analytics**—from making believable character experiences to designing interactive planning tools and exploring financial risk models.
+<p align="center"><strong>01 · Software &amp; Product</strong> → <strong>02 · Business &amp; Data</strong> → <strong>03 · Applied AI</strong></p>
 
-Rather than collecting badges, I like connecting three perspectives:
+### 01 · Building Software & Products <sub>｜ 2022–2024</sub>
+
+<p><img src="https://img.shields.io/badge/Kuaishou-FF4906?style=flat-square&logo=kuaishou&logoColor=white" alt="Kuaishou" /> <strong>Product Management</strong> &nbsp;·&nbsp; Full-stack Development</p>
+
+I started by understanding user needs, designing product experiences and implementing working software. These early portfolio projects were built by hand, before AI-assisted coding became part of my workflow.
 
 <table>
   <tr>
-    <td width="33%" align="center"><strong>01 · Product</strong><br /><sub>What is the real problem, and who cares?</sub></td>
-    <td width="33%" align="center"><strong>02 · Engineering</strong><br /><sub>How do we turn it into a working system?</sub></td>
-    <td width="33%" align="center"><strong>03 · Evidence</strong><br /><sub>What can we measure, test or learn?</sub></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Roxyh-code/CoolPaws"><img src="https://raw.githubusercontent.com/Roxyh-code/CoolPaws/main/docs/screenshots/dashboard.png" alt="Actual CoolPaws dashboard captured from the React app" width="100%" /></a>
+      <h3><a href="https://github.com/Roxyh-code/CoolPaws">CoolPaws 🐾</a></h3>
+      <p>Pet-care dashboard with wellness metrics, schedules, a searchable park directory and a Leaflet map.</p>
+      <p><sub>React · JavaScript · React Router · Leaflet · CSS</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Roxyh-code/Brainflix"><img src="https://raw.githubusercontent.com/Roxyh-code/Brainflix/main/docs/screenshots/video-detail.png" alt="Actual Brainflix video detail page captured from the React app" width="100%" /></a>
+      <h3><a href="https://github.com/Roxyh-code/Brainflix">Brainflix ▶</a></h3>
+      <p>A responsive video-site interface with dynamic pages, recommendations and an Express API for reading and creating video metadata.</p>
+      <p><sub>React · Sass · Axios · Node.js · Express</sub></p>
+    </td>
   </tr>
 </table>
 
-## Featured builds
+<sub>Actual browser captures of the original React applications; legacy compatibility fixes are documented in the respective repositories.</sub>
 
-### ✨ New worlds, smarter workflows
+---
+
+### 02 · Solving Business Problems with Data <sub>｜ 2024–2025</sub>
+
+<p><img src="https://img.shields.io/badge/CIBC-C41F3E?style=flat-square" alt="CIBC" /> <img src="https://img.shields.io/badge/Stratify%20Risk-344B65?style=flat-square" alt="Stratify Risk" /> &nbsp;<strong>Banking · Financial Risk · Venture Capital</strong></p>
+
+I expanded into finance and analytics to understand how businesses make decisions and how technology can improve them, working with Python, SQL, data pipelines, analytical models and workflow automation.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Roxyh-code/multi-asset-risk-analytics"><img src="https://raw.githubusercontent.com/Roxyh-code/multi-asset-risk-analytics/main/outputs/charts/var_sensitivity_heatmap.png" alt="VaR sensitivity heatmap from the risk analytics project" width="100%" /></a>
+      <p><strong>Risk isn't one number.</strong><br /><sub>Options sensitivity and downside exposure under different spot/volatility combinations.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Roxyh-code/multi-asset-risk-analytics"><img src="https://raw.githubusercontent.com/Roxyh-code/multi-asset-risk-analytics/main/outputs/charts/yield_curve_pca_loadings.png" alt="Yield-curve PCA loadings chart from the risk analytics project" width="100%" /></a>
+      <p><strong>Turning curves into factors.</strong><br /><sub>Principal-component analysis of interest-rate movements.</sub></p>
+    </td>
+  </tr>
+</table>
+
+| Selected portfolio project | What it demonstrates |
+| --- | --- |
+| **[Credit Analysis](https://github.com/Roxyh-code/credit-analysis-kaggle)** | Applied credit-data analysis using a Kaggle dataset |
+| **[Parallel Monte Carlo Risk Engine](https://github.com/Roxyh-code/Monte_Carlo_Risk)** | Option risk simulation, VaR and parallel processing in C |
+| **[Multi-Asset Risk & Volatility Analytics](https://github.com/Roxyh-code/multi-asset-risk-analytics)** | Python-based market risk, volatility, yield-curve PCA and portfolio stress testing |
+| **[Second Cup — UTCC Financial Modeling](https://github.com/Roxyh-code/Second_Cup)** | Scenario modeling, sensitivity analysis and business decision support |
+
+<sub>Selected independent portfolio and academic projects illustrate my skills, including work developed after this career stage. They are not proprietary deliverables from the employers listed above. Illustrative or synthetic data is identified in the relevant projects.</sub>
+
+---
+
+### 03 · Building Intelligent Systems <sub>｜ 2025–Present</sub>
+
+<p><strong>Applied AI · Agentic Systems · AI Research</strong></p>
+
+I now bring product thinking, software engineering and analytical skills together to build AI-powered experiences, exploring not only what models can do, but how to make intelligent systems useful, reliable and coherent.
 
 <table>
   <tr>
@@ -98,49 +147,15 @@ Rather than collecting badges, I like connecting three perspectives:
   </tr>
 </table>
 
-### 🛠 Before AI-assisted coding: built by hand
+| Research & engineering | Current focus |
+| --- | --- |
+| **[Echoloom — Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_V2)** | Character simulation, LLM-based scene generation, agent orchestration and memory experiments |
+| **AI Companion Research** | Conversational memory, character consistency, persona simulation and human–AI interaction |
+| **Human-centered AI Research** | Research into how conversational AI can support people living with dementia; work in progress, materials not publicly shared |
 
-These earlier projects are especially meaningful to me: I designed the components and wrote the application logic directly, learning the fundamentals rather than relying on generated code.
+<sub>Echoloom and StudyFlow banners are illustrative. StudyFlow demonstrates scheduling and product design; its prototype is not presented as a trained AI model.</sub>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Roxyh-code/CoolPaws"><img src="https://raw.githubusercontent.com/Roxyh-code/CoolPaws/main/docs/screenshots/dashboard.png" alt="Actual CoolPaws dashboard captured from the React app" width="100%" /></a>
-      <h3><a href="https://github.com/Roxyh-code/CoolPaws">CoolPaws 🐾</a></h3>
-      <p>Pet-care dashboard with wellness metrics, schedules, a searchable park directory and a Leaflet map.</p>
-      <p><sub>React · JavaScript · React Router · Leaflet · CSS</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Roxyh-code/Brainflix"><img src="https://raw.githubusercontent.com/Roxyh-code/Brainflix/main/docs/screenshots/video-detail.png" alt="Actual Brainflix video detail page captured from the React app" width="100%" /></a>
-      <h3><a href="https://github.com/Roxyh-code/Brainflix">Brainflix ▶</a></h3>
-      <p>A responsive video-site interface with dynamic pages, recommendations and an Express API for reading and creating video metadata.</p>
-      <p><sub>React · Sass · Axios · Node.js · Express</sub></p>
-    </td>
-  </tr>
-</table>
-
-<small>The CoolPaws and Brainflix images are intended as genuine browser captures of their original React interfaces, with any necessary legacy compatibility fixes disclosed in those project READMEs. The Echoloom and StudyFlow banners are illustrative.</small>
-
-## Numbers with a purpose
-
-Instead of profile trophies or a contribution streak, here are **actual visualizations produced by my analytical projects**. For me, a chart is useful when it makes a question easier to answer.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Roxyh-code/multi-asset-risk-analytics"><img src="https://raw.githubusercontent.com/Roxyh-code/multi-asset-risk-analytics/main/outputs/charts/var_sensitivity_heatmap.png" alt="VaR sensitivity heatmap from the risk analytics project" width="100%" /></a>
-      <p><strong>Risk isn't one number.</strong><br /><sub>Options sensitivity and downside exposure under different spot/volatility combinations.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Roxyh-code/multi-asset-risk-analytics"><img src="https://raw.githubusercontent.com/Roxyh-code/multi-asset-risk-analytics/main/outputs/charts/yield_curve_pca_loadings.png" alt="Yield-curve PCA loadings chart from the risk analytics project" width="100%" /></a>
-      <p><strong>Turning curves into factors.</strong><br /><sub>Principal-component analysis of interest-rate movements.</sub></p>
-    </td>
-  </tr>
-</table>
-
-**[Multi-Asset Risk & Volatility Analytics](https://github.com/Roxyh-code/multi-asset-risk-analytics)** — independent Python analysis spanning VaR, volatility strategies, interest-rate PCA and portfolio stress testing. Some modules use synthetic/illustrative inputs, identified in the project.
-
-**[Second Cup — UTCC Financial Modeling](https://github.com/Roxyh-code/Second_Cup)** — scenario analysis and quantitative decision support for a business case, including sensitivity testing and transparent model assumptions.
+---
 
 ## A little more human
 
