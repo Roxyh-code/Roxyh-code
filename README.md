@@ -63,11 +63,11 @@ From building software, to understanding business through data, to bringing both
 
 <p align="center"><strong>01 · Software &amp; Product</strong> → <strong>02 · Business &amp; Data</strong> → <strong>03 · Applied AI</strong></p>
 
-### 01 · Building Software & Products <sub>｜ 2022–2024</sub>
+### 01 · Building Software & Products <sub>｜ 2021–2024</sub>
 
-<p><img src="https://img.shields.io/badge/Kuaishou-FF4906?style=flat-square&logo=kuaishou&logoColor=white" alt="Kuaishou" /> <strong>Product Management</strong> &nbsp;·&nbsp; Full-stack Development</p>
+<p><img src="https://img.shields.io/badge/Kuaishou-FF4906?style=flat-square&logo=kuaishou&logoColor=white" alt="Kuaishou" /> <strong>Technical Product Management · Full-stack Development</strong></p>
 
-I started by understanding user needs, designing product experiences and implementing working software. These early portfolio projects were built by hand, before AI-assisted coding became part of my workflow.
+My foundation is in **technical product management and hands-on software development**: translating user needs into requirements, shaping product roadmaps, and working with engineers and designers to deliver software. These early portfolio projects were built by hand, before AI-assisted coding became part of my workflow.
 
 <table>
   <tr>
@@ -87,6 +87,11 @@ I started by understanding user needs, designing product experiences and impleme
 </table>
 
 <sub>Actual browser captures of the original React applications; legacy compatibility fixes are documented in the respective repositories.</sub>
+
+**Professional & community experience**
+
+- **Kuaishou (Kwai) — Technical Product Manager:** Defined requirements, wireframes and 10+ enterprise product features; managed the backlog and roadmap and collaborated with 20+ engineers and designers in Agile/Scrum delivery.
+- **Global Volunteer Project Manager — Nepal & Kenya:** International volunteering and community-focused project management, with an interest in economic empowerment and cross-cultural collaboration.
 
 ---
 
@@ -118,11 +123,15 @@ I expanded into finance and analytics to understand how businesses make decision
 
 <sub>Selected independent portfolio and academic projects illustrate my skills, including work developed after this career stage. They are not proprietary deliverables from the employers listed above. Illustrative or synthetic data is identified in the relevant projects.</sub>
 
+**Additional experience — Venture Capital & Technology Investment Research**
+
+- Research and scouting across two investment-related roles, focusing on the technology sector: market and industry research, startup sourcing and screening, business model analysis and investment opportunity assessment.
+
 ---
 
 ### 03 · Building Intelligent Systems <sub>｜ 2025–Present</sub>
 
-<p><strong>Applied AI · Agentic Systems · AI Research</strong></p>
+<p><img src="https://img.shields.io/badge/U%20of%20T-DGP%20Lab-002A5C?style=flat-square" alt="University of Toronto DGP Lab" /> <img src="https://img.shields.io/badge/Pfizer-Externship-0072CE?style=flat-square" alt="Pfizer Externship" /> &nbsp;<strong>Applied AI · Agentic Systems · AI Research</strong></p>
 
 I now bring product thinking, software engineering and analytical skills together to build AI-powered experiences, exploring not only what models can do, but how to make intelligent systems useful, reliable and coherent.
 
@@ -154,6 +163,11 @@ I now bring product thinking, software engineering and analytical skills togethe
 | **Human-centered AI Research** | Research into how conversational AI can support people living with dementia; work in progress, materials not publicly shared |
 
 <sub>Echoloom and StudyFlow banners are illustrative. StudyFlow demonstrates scheduling and product design; its prototype is not presented as a trained AI model.</sub>
+
+**Research & applied AI experience**
+
+- **University of Toronto — Dynamic Graphics Project (DGP) Lab | Undergraduate Research Assistant:** Human-centered AI and HCI research in Prof. Khai N. Truong’s group, exploring conversational AI companions for people living with dementia.
+- **Pfizer Advanced — [AI-Powered Document Insights & Data Extraction](https://www.extern.com/externships/pfizer-advanced-ai-powered-document-intelligence-externship-dec-2026) | Externship:** Applied AI document intelligence portfolio project; repository and implementation details to be added.
 
 ---
 
