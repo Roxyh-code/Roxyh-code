@@ -1,12 +1,57 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Roxyh-code/Echoloom_marketplace/main/docs/github-profile/profile-banner.svg" alt="Roxy: product-minded software builder, illustrated creative coding workbench" width="100%" />
+  <img src="https://raw.githubusercontent.com/Roxyh-code/Roxyh-code/main/assets/profile-banner.svg" alt="Roxy: product-minded software builder, illustrated creative coding workbench" width="100%" />
   <h1>Hey, I'm Roxy 👋</h1>
   <p><strong>Product-minded builder · Software & AI · Data-informed problem solving</strong></p>
   <p>I like taking an idea from <em>“what if?”</em> to something people can actually use.</p>
+  <p><strong>TECH STACK</strong></p>
+  <p><sub><strong>LANGUAGES</strong></sub></p>
   <p>
-    <a href="https://github.com/Roxyh-code/Echoloom_marketplace"><img src="https://img.shields.io/badge/Explore-Echoloom-7456B3?style=for-the-badge" alt="Explore Echoloom" /></a>
-    <a href="https://study-flow-liard.vercel.app/"><img src="https://img.shields.io/badge/Try-StudyFlow-278D89?style=for-the-badge" alt="Try StudyFlow" /></a>
-    <a href="https://github.com/Roxyh-code?tab=repositories"><img src="https://img.shields.io/badge/More-Projects-222338?style=for-the-badge&logo=github" alt="More repositories" /></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-323744?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C-4E6788?style=flat-square&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/SQL-466A8F?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
+  <p><sub><strong>FRONTEND & VISUALIZATION</strong></sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/React-1977A1?style=flat-square&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-282638?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Vite-7561A8?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-21899A?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Sass-B15B82?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/D3.js-D66E36?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3.js" />
+    <img src="https://img.shields.io/badge/Leaflet-43834A?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+    <img src="https://img.shields.io/badge/Framer%20Motion-6652A5?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  </p>
+  <p><sub><strong>BACKEND & DATABASES</strong></sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-428153?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-343A50?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/FastAPI-198879?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/MongoDB-397F51?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/SQLite-3B7198?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/SQLAlchemy-BE5A50?style=flat-square&logoColor=white" alt="SQLAlchemy" />
+    <img src="https://img.shields.io/badge/REST%20API-596CA8?style=flat-square&logoColor=white" alt="REST API" />
+  </p>
+  <p><sub><strong>AI & DATA</strong></sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-6A55AA?style=flat-square&logoColor=white" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/OpenAI%20API-348678?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+    <img src="https://img.shields.io/badge/NumPy-356FA1?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-42496C?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/SciPy-416EA1?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-385B87?style=flat-square&logoColor=white" alt="Matplotlib" />
+  </p>
+  <p><sub><strong>DEVELOPER TOOLS</strong></sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-D6533F?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-333B4B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-3067A9?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Playwright-44844B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Pytest-347397?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
   </p>
 </div>
 
@@ -43,7 +88,7 @@ Rather than collecting badges, I like connecting three perspectives:
       <p><a href="https://github.com/Roxyh-code/Echoloom_marketplace/tree/main/demo">▶ See the recorded demo</a></p>
     </td>
     <td width="48%" valign="top">
-      <a href="https://github.com/Roxyh-code/StudyFlow"><img src="https://raw.githubusercontent.com/Roxyh-code/Echoloom_marketplace/main/docs/github-profile/studyflow-card.svg" alt="Illustration of the StudyFlow weekly planner and workload visualization; not a real application screenshot" width="100%" /></a>
+      <a href="https://github.com/Roxyh-code/StudyFlow"><img src="https://raw.githubusercontent.com/Roxyh-code/Roxyh-code/main/assets/studyflow-card.svg" alt="Illustration of the StudyFlow weekly planner and workload visualization; not a real application screenshot" width="100%" /></a>
       <h3><a href="https://github.com/Roxyh-code/StudyFlow">StudyFlow</a></h3>
       <p><strong>Adaptive academic workload planning</strong></p>
       <p>A high-fidelity React prototype for scheduling around real constraints, tracking tasks, visualizing workload and exploring AI-assisted study planning.</p>
@@ -96,30 +141,6 @@ Instead of profile trophies or a contribution streak, here are **actual visualiz
 **[Multi-Asset Risk & Volatility Analytics](https://github.com/Roxyh-code/multi-asset-risk-analytics)** — independent Python analysis spanning VaR, volatility strategies, interest-rate PCA and portfolio stress testing. Some modules use synthetic/illustrative inputs, identified in the project.
 
 **[Second Cup — UTCC Financial Modeling](https://github.com/Roxyh-code/Second_Cup)** — scenario analysis and quantitative decision support for a business case, including sensitivity testing and transparent model assumptions.
-
-## How the pieces fit together
-
-```mermaid
-flowchart LR
-    A["Hand-coded web fundamentals"] --> B["Product prototypes"]
-    B --> C["AI-powered applications"]
-    B --> D["Quantitative modeling"]
-    C --> E["Build · evaluate · improve"]
-    D --> E
-```
-
-<details>
-  <summary><strong>Tools I use across projects</strong></summary>
-  <br />
-
-  **Interfaces:** React, TypeScript, JavaScript, HTML, CSS/SCSS, Tailwind CSS
-
-  **Systems & AI:** Python, FastAPI, Node.js, Express, LangGraph, model APIs
-
-  **Data & analysis:** Python analytics, financial modeling, simulation, statistical methods, SQL
-
-  **Workflow:** Git/GitHub, REST APIs, automated testing, iterative prototyping
-</details>
 
 ## A little more human
 
