@@ -158,7 +158,7 @@ I now bring product thinking, software engineering and analytical skills togethe
 
 | Research & engineering | Current focus |
 | --- | --- |
-| **[Echoloom — Marketplace & Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_marketplace)** | Hackathon extension: character discovery, publishing, public listings and interactive two-character storytelling |
+| **[Echoloom — Marketplace & Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_marketplace)** | Hackathon extension: character discovery, publishing, public listings and interactive two-character storytelling; **Solana / Web3 integration (in progress)** — wallet authentication, on-chain payments and creator revenue sharing |
 | **AI Companion Research** | Conversational memory, character consistency, persona simulation and human–AI interaction |
 | **Human-centered AI Research** | Research into how conversational AI can support people living with dementia; work in progress, materials not publicly shared |
 
