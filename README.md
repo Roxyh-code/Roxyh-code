@@ -138,12 +138,12 @@ I now bring product thinking, software engineering and analytical skills togethe
 <table>
   <tr>
     <td width="52%" valign="top">
-      <a href="https://github.com/Roxyh-code/Echoloom_marketplace"><img src="https://raw.githubusercontent.com/Roxyh-code/Echoloom_marketplace/main/docs/assets/readme-hero.svg" alt="Echoloom character marketplace illustrated concept" width="100%" /></a>
-      <h3><a href="https://github.com/Roxyh-code/Echoloom_marketplace">Echoloom</a></h3>
-      <p><strong>Character marketplace × AI storytelling</strong></p>
-      <p>A mobile-first studio for creating and publishing original characters, casting two of them into a shared scene and directing how the story unfolds.</p>
-      <p><sub>Next.js · React · TypeScript · FastAPI · LangGraph · Python</sub></p>
-      <p><a href="https://github.com/Roxyh-code/Echoloom_marketplace/tree/main/demo">▶ See the recorded demo</a></p>
+      <a href="https://github.com/Roxyh-code/Echoloom_V2"><img src="https://raw.githubusercontent.com/Roxyh-code/Echoloom_V2/main/docs/assets/readme-v2-hero.svg" alt="Echoloom V2 illustrated character studio and branching narrative" width="100%" /></a>
+      <h3><a href="https://github.com/Roxyh-code/Echoloom_V2">Echoloom</a></h3>
+      <p><strong>AI character studio × interactive storytelling</strong></p>
+      <p>A mobile-first AI character and scene rehearsal studio exploring persistent personas, narrative continuity, author-directed storytelling and character memory.</p>
+      <p><sub>Next.js · React · TypeScript · FastAPI · LangGraph · Python · Mem0 (experiment)</sub></p>
+      <p><a href="https://github.com/Roxyh-code/Echoloom_V2/tree/main/demo">▶ Watch the original companion demo</a></p>
     </td>
     <td width="48%" valign="top">
       <a href="https://github.com/Roxyh-code/StudyFlow"><img src="https://raw.githubusercontent.com/Roxyh-code/Roxyh-code/main/assets/studyflow-card.svg" alt="Illustration of the StudyFlow weekly planner and workload visualization; not a real application screenshot" width="100%" /></a>
@@ -158,7 +158,7 @@ I now bring product thinking, software engineering and analytical skills togethe
 
 | Research & engineering | Current focus |
 | --- | --- |
-| **[Echoloom — Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_V2)** | Character simulation, LLM-based scene generation, agent orchestration and memory experiments |
+| **[Echoloom — Marketplace & Scene Rehearsal](https://github.com/Roxyh-code/Echoloom_marketplace)** | Hackathon extension: character discovery, publishing, public listings and interactive two-character storytelling |
 | **AI Companion Research** | Conversational memory, character consistency, persona simulation and human–AI interaction |
 | **Human-centered AI Research** | Research into how conversational AI can support people living with dementia; work in progress, materials not publicly shared |
 
