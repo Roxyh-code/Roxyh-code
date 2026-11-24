@@ -167,7 +167,7 @@ I now bring product thinking, software engineering and analytical skills togethe
 **Research & applied AI experience**
 
 - **University of Toronto — Dynamic Graphics Project (DGP) Lab | Undergraduate Research Assistant:** Human-centered AI and HCI research in Prof. Khai N. Truong’s group, exploring conversational AI companions for people living with dementia.
-- **Pfizer Advanced — [AI-Powered Document Insights & Data Extraction](https://www.extern.com/externships/pfizer-advanced-ai-powered-document-intelligence-externship-dec-2026) | Externship:** Applied AI document intelligence portfolio project; repository and implementation details to be added.
+- **Pfizer Advanced — AI-Powered Document Insights & Data Extraction | Externship:** Applied AI for document intelligence and data extraction (in progress).
 
 ---
 
