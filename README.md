@@ -91,6 +91,7 @@ My foundation is in **technical product management and hands-on software develop
 **Professional & community experience**
 
 - **Kuaishou (Kwai) — Technical Product Manager:** Defined requirements, wireframes and 10+ enterprise product features; managed the backlog and roadmap and collaborated with 20+ engineers and designers in Agile/Scrum delivery.
+- **Infinitus Company Ltd. — Business & Technology Consultant (Contract):** Combined full-stack development (React, JavaScript, Node.js/Express and MongoDB) with business strategy, building a product showcase website, developing a global expansion plan and analyzing sales data to support market-entry decisions.
 - **Global Volunteer Project Manager — Nepal & Kenya:** International volunteering and community-focused project management, with an interest in economic empowerment and cross-cultural collaboration.
 
 ---
