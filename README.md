@@ -63,7 +63,7 @@ From building software, to understanding business through data, to bringing both
 
 <p align="center"><strong>01 · Software &amp; Product</strong> → <strong>02 · Business &amp; Data</strong> → <strong>03 · Applied AI</strong></p>
 
-### 01 · Building Software & Products <sub>｜ 2021–2024</sub>
+### 01 · Building Software & Products <sub>｜ 2 years</sub>
 
 <p><img src="https://img.shields.io/badge/Kuaishou-FF4906?style=flat-square&logo=kuaishou&logoColor=white" alt="Kuaishou" /> <strong>Technical Product Management · Full-stack Development</strong></p>
 
@@ -95,7 +95,7 @@ My foundation is in **technical product management and hands-on software develop
 
 ---
 
-### 02 · Solving Business Problems with Data <sub>｜ 2024–2025</sub>
+### 02 · Solving Business Problems with Data <sub>｜ 1 year</sub>
 
 <p><img src="https://img.shields.io/badge/CIBC-C41F3E?style=flat-square" alt="CIBC" /> <img src="https://img.shields.io/badge/Stratify%20Risk-344B65?style=flat-square" alt="Stratify Risk" /> &nbsp;<strong>Banking · Financial Risk · Venture Capital</strong></p>
 
@@ -129,7 +129,7 @@ I expanded into finance and analytics to understand how businesses make decision
 
 ---
 
-### 03 · Building Intelligent Systems <sub>｜ 2025–Present</sub>
+### 03 · Building Intelligent Systems <sub>｜ 1 year & counting</sub>
 
 <p><img src="https://img.shields.io/badge/U%20of%20T-DGP%20Lab-002A5C?style=flat-square" alt="University of Toronto DGP Lab" /> <img src="https://img.shields.io/badge/Pfizer-Externship-0072CE?style=flat-square" alt="Pfizer Externship" /> &nbsp;<strong>Applied AI · Agentic Systems · AI Research</strong></p>
 
