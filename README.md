@@ -142,6 +142,7 @@ I now bring product thinking, software engineering and analytical skills togethe
       <a href="https://github.com/Roxyh-code/Echoloom_V2"><img src="https://raw.githubusercontent.com/Roxyh-code/Echoloom_V2/main/docs/assets/readme-v2-hero.svg" alt="Echoloom V2 illustrated character studio and branching narrative" width="100%" /></a>
       <h3><a href="https://github.com/Roxyh-code/Echoloom_V2">Echoloom</a></h3>
       <p><strong>AI character studio × interactive storytelling</strong></p>
+      <p>🎉 <strong>Selected for the UTMIST Startups program — University of Toronto (Nov 2026)</strong></p>
       <p>A mobile-first AI character and scene rehearsal studio exploring persistent personas, narrative continuity, author-directed storytelling and character memory.</p>
       <p><sub>Next.js · React · TypeScript · FastAPI · LangGraph · Python · Mem0 (experiment)</sub></p>
       <p><a href="https://github.com/Roxyh-code/Echoloom_V2/tree/main/demo">▶ Watch the original companion demo</a></p>
